@@ -1,0 +1,11 @@
+transformers
+datasets
+seqeval
+torch
+scikit-learn
+pdfplumber
+python-docx
+tqdm
+chardet
+fastapi
+uvicorn
