@@ -54,3 +54,7 @@ No real personal or client data is included.
 2. Run notebooks in order (1 → 4)
 
 ## use the convet.py for converting the export_doccano.jsonl into .conll file format
+
+## Team Members
+- Arjun M
+- Shijin KC
